@@ -1,7 +1,4 @@
-"""
-✅ Gemini + OpenAI Agents SDK + Chainlit
-Crypto tools powered by Gemini with Chainlit UI
-"""
+
 
 import os
 import aiohttp
